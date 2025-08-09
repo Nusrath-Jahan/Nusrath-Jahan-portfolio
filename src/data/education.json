@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Full-Stack Web Development Course",
+    "duration": "8 months",
+    "organization": "Hack Your Future",
+    "details": "HTML, CSS, JavaScript, JSON, Mysql Node.js, React.js"
+  },
+  {
+    "title": "Front-End Web Development Course",
+    "duration": "3 months",
+    "organization": "Redi-School",
+    "details": "HTML, CSS, JavaScript"
+  },
+  {
+    "title": "Prøve i Dansk 2",
+    "duration": "2.5 years",
+    "organization": "VSK dansk",
+    "details": "Danskuddannelse til voksne udlændinge"
+  },
+  {
+    "title": "Diploma: Java Enterprise Systems Analysis and Design (ESA D - J2EE)",
+    "duration": "2019-2021",
+    "organization": "IsDB-BISEW ITI, Bangladesh",
+    "details": "Java, Spring Boot, Swing, Angular, jQuary, SQL,  MySQL, Oracle, Hibernate"
+  },
+  {
+    "title": "MBA: Major in Finance",
+    "duration": "2018-2019",
+    "organization": "Bangladesh Islami University (BIU), Bangladesh",
+    "details": "Major in Finance"
+  },
+  {
+    "title": "BBA: Major in Finance",
+    "duration": "2014-2017",
+    "organization": "BGC Trust University (BTU), Bangladesh",
+    "details": "Major in Finance"
+  }
+]

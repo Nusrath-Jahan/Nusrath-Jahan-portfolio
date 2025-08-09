@@ -1,0 +1,33 @@
+[
+  {
+    "role": "Voluntary work",
+    "organisation": "Hello Ada",
+    "startDate": "June 2024",
+    "endDate": " Aug 2024",
+    "experiences": [
+      "AI Tools Design",
+      " focusing on user experience, interface design"
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Azolution Software",
+    "startDate": "Dec, 2020 ",
+    "endDate": "Oct, 2021",
+    "experiences": [
+      "Customer support by addressing inquiries",
+      "Resolving issues and ensuring customer satisfaction."
+    ]
+  },
+  {
+    "role": "Former Junior Software Engineer",
+    "organisation": "Software Arena Ltd",
+    "startDate": "Jan, 2020",
+    "endDate": "Nov, 2020",
+    "experiences": [
+      "AI Tools Design Experience",
+      "Collaborated in the design and development of AI tools",
+      "Focusing on user experience and interface design."
+    ]
+  }
+]
