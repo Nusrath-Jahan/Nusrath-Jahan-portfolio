@@ -3,21 +3,24 @@
     "title": "Meal Share",
     "imageSrc": "projects/Meal_Share_Project.jpg",
     "description": "This web application is a meal sharing platform for restaurants that allows users to discover, order, reserve seats, and request meals.",
-    "skills": ["HTML", "CSS","JavaScript","React", "Express", "Node"],
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Express", "Node"],
+
     "source": "https://github.com/Nusrath-Jahan/meal-sharing"
   },
   {
     "title": "Movie App",
     "imageSrc": "projects/Movie_App.jpg",
     "description": "This is a movie app that allows users to search for movies, view details, and get recommendations based on their preferences.",
-    "skills": ["HTML", "CSS","JavaScript"],
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://movie-app-filmyfly.netlify.app/",
     "source": "https://github.com/Nusrath-Jahan/Movie-App"
   },
   {
     "title": "E-commerce Project",
     "imageSrc": "projects/E-commerce.jpg",
     "description": "This is an e-commerce project that allows users to browse products, add them to a cart, and proceed to checkout.",
-    "skills": ["HTML", "CSS","JavaScript"],
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://e-commerce-project-daraz.netlify.app/#promo-bar",
     "source": "https://github.com/Nusrath-Jahan/E-commerce-Project"
   }
 ]
