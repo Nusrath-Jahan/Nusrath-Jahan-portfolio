@@ -12,16 +12,19 @@ export const Hero = () => {
           I'm a full-stack developer with 2 years of experience using React and
           NodeJS. Reach out if you'd like to learn more!
         </p>
-        <a href="#projects" className={styles.contactBtn}>
-          My Work
-        </a>
-        <a href="assets/Nusrath-Jahan-CV.pdf" target="_blank">
-          <button>View CV</button>
-        </a>
 
-        <a href="mailto:nusrath@email.com" className={styles.contactBtn}>
-          Contact Me
-        </a>
+        {/* Button container */}
+    <div className={styles.buttonGroup}>
+      <a href="#projects" className={styles.btn}>
+        My Work
+      </a>
+      <a href="assets/Nusrath-Jahan-CV.pdf" target="_blank" rel="noopener noreferrer">
+        <button className={styles.cvBtn}>Resume</button>
+      </a>
+      <a href="mailto:nusrath@email.com" className={styles.btn}>
+        Contact
+      </a>
+    </div>
       </div>
       <img
         src={getImageUrl("hero/Nusrath_Jahan.jpg")}
