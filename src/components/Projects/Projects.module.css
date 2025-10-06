@@ -24,4 +24,27 @@
   gap: 15px;
   width: 100%;
 }
+.moreButton {
+  margin: 2rem auto;
+  padding: 0.75rem 1.5rem;
+  display: block;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #4f46e5, #3b82f6);
+  color: white;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
 
+.moreButton:hover {
+  background: linear-gradient(135deg, #4338ca, #2563eb);
+  transform: translateY(-2px);
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.moreButton:active {
+  transform: translateY(0);
+  box-shadow: none;
+}

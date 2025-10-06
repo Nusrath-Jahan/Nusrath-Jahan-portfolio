@@ -1,5 +1,6 @@
 @import "../../vars.css";
 
+
 .container {
   position: relative;
   display: flex;
@@ -31,7 +32,8 @@
   );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
-}
+  }
+
 
 .description {
   font-size: 30px;

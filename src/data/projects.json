@@ -1,5 +1,13 @@
 [
   {
+    "title": "KLEVER-e-commerce-website",
+    "imageSrc": "projects/e-commerce-react.png",
+    "description": "This web application is a meal sharing platform for restaurants that allows users to discover, order, reserve seats, and request meals.",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "demo": "https://react-ecommerce-shopping-website.netlify.app/",
+    "source": "https://github.com/Nusrath-Jahan/React-Ecommerce-App"
+  },
+  {
     "title": "Meal Share",
     "imageSrc": "projects/Meal_Share_Project.jpg",
     "description": "This web application is a meal sharing platform for restaurants that allows users to discover, order, reserve seats, and request meals.",
