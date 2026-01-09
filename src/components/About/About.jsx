@@ -6,7 +6,7 @@ import { getImageUrl } from "../../utils";
 export const About = () => {
   return (
     <section className={styles.container} id="about">
-      <h1 className={styles.title}>About Nusrath – Web Developer</h1>
+      <h1 className={styles.title}>About Nusrath – Web Developer 2250</h1>
       <ul className={styles.aboutItems}>
         <li className={styles.aboutItem}>
           <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
